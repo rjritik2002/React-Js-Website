@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Js-Website/static/css/main.1209da3e.css",
+    "main.js": "/React-Js-Website/static/js/main.aeb1ee4e.js",
+    "static/media/software.jpg": "/React-Js-Website/static/media/software.63f3dda3eab35f8fcd02.jpg",
+    "static/media/app.jpg": "/React-Js-Website/static/media/app.539ccc6183e257996679.jpg",
+    "static/media/marketing.jpg": "/React-Js-Website/static/media/marketing.2bdca31947a868c0d659.jpg",
+    "static/media/webdevelopment.jpg": "/React-Js-Website/static/media/webdevelopment.64df6f405733aee1fe05.jpg",
+    "static/media/android.jpg": "/React-Js-Website/static/media/android.68b06bbccee14083c589.jpg",
+    "static/media/digital.jpg": "/React-Js-Website/static/media/digital.06ee9a7ca7e63de473f4.jpg",
+    "static/media/img1.png": "/React-Js-Website/static/media/img1.c69ee881760cc74b5f99.png",
+    "static/media/img4.png": "/React-Js-Website/static/media/img4.0f8b0cebd5ea05d9f660.png",
+    "index.html": "/React-Js-Website/index.html",
+    "main.1209da3e.css.map": "/React-Js-Website/static/css/main.1209da3e.css.map",
+    "main.aeb1ee4e.js.map": "/React-Js-Website/static/js/main.aeb1ee4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1209da3e.css",
+    "static/js/main.aeb1ee4e.js"
+  ]
+}
